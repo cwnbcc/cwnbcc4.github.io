@@ -1,0 +1,97 @@
+body {
+    margin: 15px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#head_font {
+    font-size: 300%;
+    padding: 0px;
+    margin: 10px;
+}
+
+div {
+    font-size: larger;
+    padding: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.title {
+    text-align: left;
+    font-size: 23px;
+    padding-left: 40px;
+    padding-bottom: 0px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+a:visited {
+    color: black;
+}
+
+.alpha {
+    font-size: 30px;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 8px 20px;
+    text-transform: uppercase;
+    display: block;
+}
+
+.alpha:hover {
+    background: #3a91fb;
+    color: #fff;
+    font-weight: bold;
+}
+
+.maker {
+    font-size: 13px;
+    text-align: right;
+    padding-bottom: 20px;
+    margin: 10px;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+li {
+    border: 1px solid #3a91fb;
+    list-style-type: none;
+    display: inline-block;
+}
+
+#bono {
+    display: block;
+    margin: auto;
+    position: relative;
+}
+
+#banner {
+    display: block;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    width: 65%;
+    height: auto;
+}
+
+.camp {
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: 300;
+    padding: 6px 10px;
+    text-transform: uppercase;
+    display: block;
+}
+
+.camp:hover {
+    background: #33eb7d;
+    color: #fff;
+    font-weight: bold;
+}
